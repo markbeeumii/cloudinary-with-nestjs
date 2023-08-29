@@ -34,6 +34,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Guideline
+1- You need to create an account on Cloudinary  <br>
+2- Copy Cloud_Name, APIKEY, SecretKey past file .env  <br>
+3- Testing with Postman  <br> <br>
+<img src="https://res.cloudinary.com/drosy6q2y/image/upload/v1693283651/Nest_app/save-file-90.jpg" width="600" hieght="300" alt="ahh"> <br> <br> 
+
 ## Installation
 
 ```bash
